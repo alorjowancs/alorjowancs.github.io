@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+<rect width="600" height="450" fill="#ffffff"/>
+<rect x="24" y="24" width="552" height="402" rx="30" fill="#fbfdfb"/>
+<path d="M90 240L300 70l210 170v195H90z" fill="#eef8ef"/><path d="M70 245L300 65l230 180-20 25L300 105 90 270z" fill="#76247f"/><rect x="255" y="300" width="90" height="135" rx="8" fill="#38a83b"/><rect x="145" y="285" width="70" height="70" rx="8" fill="#fff"/>
+<text x="300" y="425" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#38a83b">Residential Cleaning</text>
+</svg>

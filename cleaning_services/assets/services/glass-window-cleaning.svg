@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#f8fbf8"/>
+<rect x="70" y="55" width="660" height="390" rx="28" fill="#ffffff" stroke="#76247f" stroke-width="12"/>
+<path d="M400 60V440M75 248H725" stroke="#76247f" stroke-width="10"/>
+<path d="M160 135L610 370M635 135L490 280" stroke="#38a83b" stroke-width="22" stroke-linecap="round"/>
+<path d="M590 105L655 130L625 190" fill="none" stroke="#38a83b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="155" cy="100" r="22" fill="#38a83b"/>
+<text x="400" y="478" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#76247f">Glass &amp; Window Cleaning</text>
+</svg>
