@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+<rect width="600" height="450" fill="#ffffff"/>
+<rect x="24" y="24" width="552" height="402" rx="30" fill="#fbfdfb"/>
+<rect x="100" y="110" width="400" height="245" rx="18" fill="#eef6ef"/><rect x="140" y="155" width="145" height="90" rx="8" fill="#d7e8dc"/><rect x="315" y="155" width="145" height="90" rx="8" fill="#d7e8dc"/><path d="M165 285h105M335 285h105" stroke="#76247f" stroke-width="18" stroke-linecap="round"/><circle cx="212" cy="130" r="20" fill="#38a83b"/><path d="M300 350l45-105 25 10-45 105z" fill="#76247f"/>
+<text x="300" y="425" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#76247f">Office Cleaning</text>
+</svg>

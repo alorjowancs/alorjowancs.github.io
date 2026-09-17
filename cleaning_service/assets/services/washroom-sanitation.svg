@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#f8fbf8"/>
+<rect x="135" y="70" width="530" height="355" rx="28" fill="#f4ebf5"/>
+<rect x="205" y="125" width="145" height="170" rx="14" fill="#ffffff" stroke="#76247f" stroke-width="10"/>
+<circle cx="278" cy="350" r="52" fill="#38a83b"/>
+<rect x="450" y="145" width="80" height="175" rx="12" fill="#38a83b"/>
+<path d="M430 130H550M430 335H550" stroke="#76247f" stroke-width="12" stroke-linecap="round"/>
+<path d="M610 100L622 132L655 144L622 156L610 188L598 156L565 144L598 132Z" fill="#38a83b"/>
+<text x="400" y="475" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#76247f">Washroom &amp; Sanitation</text>
+</svg>

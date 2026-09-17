@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+<rect width="600" height="450" fill="#ffffff"/>
+<rect x="24" y="24" width="552" height="402" rx="30" fill="#fbfdfb"/>
+<circle cx="300" cy="245" r="155" fill="#f4ebf5"/><path d="M220 170h160M245 170v130M355 170v130M190 330h220" stroke="#76247f" stroke-width="20" stroke-linecap="round"/><path d="M455 145l10 28 28 10-28 10-10 28-10-28-28-10 28-10z" fill="#38a83b"/>
+<text x="300" y="425" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#76247f">Deep Cleaning</text>
+</svg>
